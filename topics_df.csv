@@ -1,0 +1,288 @@
+cluster,topics,aspects
+0.0,"['well', 'sometim', 'time', 'alexa,', 'drain', 'camera', 'upto', 'app', 'inbuilt', 'alexa', 'googl', 'work', 'batteri', 'hand', 'free']",alexa
+1.0,"['ke', 'bahut', 'se', 'camera', 'hi', 'hai', 'bhi', 'ki', 'ka', 'nahi', 'ye', 'ho', 'nhi']",none
+2.0,"['x3', 'f1', 'f3', 'game', 'poco', 'use', 'compar', 'rang', 'far', 'perform', 'm2', 'gt', 'x2', 'ths']",brand
+3.0,"['qualiti', 'm31', 'm31s', 'm30s', 'camera', 'm51', 'm30', 'compar', 'usng', 'batteri', 'perform', 'whch', 'ths']",brand
+4.0,"['never', 'resist', 'water', 'dust', 'waterproof', 'one', 'ip68', 'ip', 'come', 'proof', 'rate', 'damag', 'price', 'screen']","waterproof, ip rating, dust resistant "
+5.0,"['wallpap', 'one', 'screen', 'lock', 'chang', 'paid', 'get', 'thng', 'theme', 'super', 'set', 'provid', 'font', 'would', 'need', 'free']","wallpaper , theme, screen "
+6.0,"['tme', 'time', 'day', 'around', 'game', 'hrs', 'gettng', 'get', 'hour', 'usag', 'screen', 'wth']","screen on time, screen time "
+7.0,"['watchng', 'vdeo', 'revew', 'watch', 'lot', 'youtub', 'recordng', 'usng', 'upload', 'bought', 'wth', 'ths', 'qualti']",video
+8.0,"['ssue', 'mode', 'tnt', 'dsplay', 'crush', 'facng', 'green', 'ths', 'lke', 'face', 'low', 'brghtness', 'dark', 'wth']","green tint, display, brightness "
+9.0,"['ssue', 'dsplay', 'day', 'amol', 'mobl', 'purchas', 'one', 'screen', 'qualti', 'lke', 'replac', 'problem', 'ths', 'wth']","display, amoled , screen "
+10.0,"['qualiti', 'ssue', 'heatng', 'heat', 'camera', 'one', 'use', 'issu', 'get', 'charg', 'batteri', 'problem', 'ths']","heating, camera, charging "
+11.0,"['time', 'unlock', 'mask', 'featur', 'id', 'even', 'recognit', 'face', 'work', 'lock', 'slow', 'fast', 'light']","face recognition, unlock"
+12.0,"['qualiti', 'life', 'scanner', 'camera', 'reader', 'print', 'finger', 'face', 'work', 'side', 'sensor', 'batteri', 'fast', 'fingerprint']","fingerprint reader, camera , scanner "
+13.0,"['need', 'day', 'camera', 'wrost', 'compar', 'real', '30k', 'flagship', 'charg', 'iqoo7', 'iq007', 'segment', 'perform', 'batteri', 'monster', 'price']",brand
+14.0,"['brand', 'look', 'daili', 'user', 'one', 'want', 'money', 'rang', 'experi', 'od', 'valu', 'overal', 'perform', 'price']",brand
+15.0,"['devic', 'call', 'bluetooth', 'time', 'connect', 'use', 'speed', 'turn', 'issu', 'get', 'app', 'work', 'problem', 'disconnect', 'low']",bluetooth
+16.0,"['bluetooth', 'jack', 'ear', 'mm', 'headset', 'headphon', 'head', 'miss', 'audio', 'box', 'get', 'provid', 'earphon', '5mm']","bluetooth, audio jack, headset"
+17.0,"['enough', 'day', 'last', 'poor', 'app', 'back', 'amaz', 'mark', 'charg', 'back-up', 'usag', 'batteri', 'min', 'fast', 'ths', 'download']",battery backup
+18.0,"['look', 'day', 'give', 'full', 'one', 'poor', 'normal', 'get', 'hour', 'charg', 'backup', 'fast', 'batteri', 'decent', 'usag']",battery backup
+19.0,"['charger', 'adapt', 'short', 'adaptor', 'cabl', 'port', 'miss', 'box', 'data', 'charg', 'usb', 'type']","charger, adaptor, cable , usb"
+20.0,"['devic', 'look', 'level', 'overal', 'one', 'featur', 'money', 'rang', 'flagship', 'true', 'get', 'experi', 'valu', 'budget', 'perform', 'price', 'feel']",none
+21.0,"['devic', 'killer,', 'killer', 'overal', 'one', 'use', 'truli', 'featur', 'rang', 'flagship', 'true', 'review', 'segment', 'budget', 'softwar', 'perform', 'price']",none
+22.0,"['phone', 'brand', 'china', 'updat', 'india', 'want', 'chines', 'compar', 'compani', 'data', 'rang', 'buyer', 'buy', 'secur', 'softwar', 'price']","manufacturer , company, brand, India, China"
+23.0,"['brand', 'china', 'non-chines', 'look', 'well', 'made', 'one', 'chines', 'non', 'get', 'overal', 'product', 'price', 'thing']","manufacturer , company, brand, India, China"
+24.0,"['brand', 'qualiti', 'china', 'support', 'made', 'one', 'india', 'custom', 'indian', 'manufactur', 'market', 'make', 'price']","manufacturer , company, brand, India, China"
+25.0,"['funtouch', 'os', 'updat', 'bug', 'improv', 'lot', 'come', 'stock', 'app', 'mu', 'softwar', 'ui', 'android', 'touch', 'wth']","os, bug, ui"
+26.0,"['dialer', 'miui', 'os', 'updat', 'user', 'bug', 'use', 'lot', 'softwar', 'app', 'issu', 'experi', 'ui', 'need']","dialer, miui, os, bug"
+27.0,"['brand', '""hasselblad""', 'front', 'hassaelblad', 'hype', 'camera', 'one', 'expect', 'given', 'name', 'increas', 'work', 'tri', 'hasselblad', 'make', 'price', 'collabor']","hasselblad , camera"
+28.0,"['defect', 'purchas', 'day', 'use', 'one', 'handset,', 'handset', 'got', 'replac', 'problem', 'price', 'ths', 'wth']",handset
+29.0,"['ssue', 'never', 'oneplus', 'ever', 'updat', 'oneplus9', 'use', 'one', 'featur', 'lot', 'compar', 'ths', 'oneplus,', 'usng', 'softwar', 'perform', 'price', 'onplus']",brand
+30.0,"['ssue', 'whle', 'day', 'dd', 'heatng', 'heat', 'chargng', 'lke', 'get', 'face', 'usng', 'problem', 'ths', 'wth']","heating, charging"
+31.0,"['drain', 'day', 'heat', 'overh', 'drainag', 'issu', 'get', 'even', 'usag', 'batteri', 'problem', 'fast', 'life']",battery drain
+32.0,"['devic', 'charger', 'time', 'warm', 'heat', 'bit', 'use', 'littl', 'normal', 'issu', 'get', 'charg', 'hot', 'batteri', 'fast']","charger, heating"
+33.0,"['brand', 'peopl', 'purchas', 'day', 'price', 'one', 'want', 'thank', 'even', 'amazon', 'month', 'samsung,', 'bought', 'ths', 'wth']",brand
+34.0,"['phone', 'superb', 'phone,', 'day', 'purchas', 'one', 'use', 'money', 'high', 'rang', 'amazon', 'valu', 'work', 'price', 'ths', 'wth']",brand
+35.0,"['devic', 'play', 'game', 'heat', 'littl', 'high', 'pubg', 'normal', 'even', 'issu', 'get', 'hour', 'cod', 'warm', 'heavi']","gaming, heating, pubg, cod"
+36.0,"['phone', 'ssue', 'heatng', 'heat', 'use', 'game', 'issu', 'get', 'even', 'app', 'hour', 'hot', 'problem']","heating, game"
+37.0,"['day', '5000mah', 'mah', '5000', 'last', 'one', '6000mah', 'even', 'batteri', '6000', 'life']",battery
+38.0,"['peopl', 'well', 'becom', 'overheat', 'day', 'overh', 'heat', 'bit', 'say', 'use', 'issu', 'even', 'get', 'overheatng', 'problem', 'wth']", heating
+39.0,"['punch', 'look', 'notch', 'water', 'drop', 'camera', 'hole', 'small', 'old', 'display', 'front']"," punch, notch, camera, display"
+40.0,"['time', 'cool', 'heat', 'hot', 'littl', 'bit', 'use', 'normal', 'continu', 'even', 'get', 'usag', 'warm', 'quick']"," punch, notch, camera, display"
+41.0,"['heat', 'littl', 'use', 'one', 'normal', 'major', 'issu', 'even', 'get', 'face', 'notic', 'start', 'problem', 'serious']",heating
+42.0,"['hype', 'day', 'usual,', 'one', 'upto', 'accord', 'standard', 'got', 'mark', 'per', 'expect', 'satisfi', 'ok', 'price']",none
+43.0,"['charger', 'life', 'full', 'one', '65', 'warp', 'charg', 'work', 'min', 'batteri', 'fast', 'watt', '65w']","charger, warp charger, battery"
+44.0,"['charger', '55w', '65', 'speed', '66w', 'flash', 'charg', 'min', 'batteri', 'fast', 'watt', '65w']","charger , flash , charging"
+45.0,"['devic', 'charger', 'enough', 'quick', '33w', '33', 'even', 'get', 'charg', 'min', 'batteri', 'fast', 'watt']","charger , charging, battery"
+46.0,"['25w', 'charger', 'adapt', 'support', 'take', 'box', '25', '15w', 'charg', 'provid', '15', 'fast', 'watt']","charger , adapter"
+47.0,"['qualiti', 'balanc', 'around', 'all,', 'one', 'beast', 'could', 'mind', 'compar', 'get', 'segment,', 'without', 'rate', 'segment', 'absolut', 'overal', 'perform', 'love']",none
+48.0,"['stop', 'qualiti', 'charger', 'adapt', 'one', 'issu', 'box', 'get', 'even', 'charg', 'month', 'work', 'batteri', 'problem', 'ths']","charger, charging, adapter"
+49.0,"['time', 'day', 'user', 'one', 'use', 'twice', 'last', 'even', 'hour', 'charg', 'usag', 'need', 'heavi', 'two']","usage,charge"
+50.0,"['ssue', 'day', 'lfe', 'one', 'chargng', 'lke', 'dran', 'usng', 'batteri', 'fast', 'ths', 'wth']","battery life,battery"
+51.0,"['drain', 'day', 'quick', 'drainag', 'use', 'even', 'issu', 'hour', 'charg', 'faster', 'usag', 'batteri', 'fast']","battery drain, battery"
+52.0,"['bettari', 'drain', 'day', 'littl', 'normal', 'even', 'carri', 'issu', 'hour', 'cannot', 'within', 'work', 'faster', 'usag', 'slow', '20%', 'fast']","battery drain, battery"
+53.0,"['charger', 'time', 'full', 'featur', 'take', 'speed', 'issu', 'long', 'hour', 'charg', 'fast,', 'work', 'batteri', 'fast', 'life']","battery life, battery"
+54.0,"['time', 'charger', 'full', 'fulli', 'take', 'speed', 'get', 'hour', 'charg', '100%', 'min', 'slow', 'fast', 'batteri']","charging, charger"
+55.0,"['servic', 'seri', 'mother', 'day', 'chang', 'replac', 'board', 'motherboard', 'center', 'need', 'problem', 'said']","motherboard, service "
+56.0,"['day', 'full', 'one', 'last', 'normal', 'hour', 'moder', 'usag', 'batteri', 'heavi', 'easili', 'life']",battery 
+57.0,"['superb', 'disappoint', 'day', 'one', 'ok', 'poor', 'normal', 'last', 'amaz', 'even', 'long', 'expect', 'usag', 'batteri', 'perform', 'life']","battery life, battery "
+58.0,"['except', 'day', 'life', 'optim', 'optimis', 'improv', 'one', 'poor', 'last', 'featur', 'manag', 'ok', 'need', 'perform', 'batteri']",battery 
+59.0,"['except', 'year', 'poor', 'issu', 'due', 'get', 'replac', 'back', 'work', 'damag', 'ok', 'batteri', 'problem', 'ths']",battery 
+60.0,"['enough', 'price', 'one', 'beast', 'pretti', 'seem', 'amaz', 'everyth', 'replac', 'work', 'batteri', 'decent', 'fine', 'thing']",battery 
+61.0,"['devic', 'look', 'made', 'perfect', 'one', 'want', 'ths', 'amaz', 'rang', 'rounder', 'segment', 'perform', 'overal', 'all-round', 'price', 'round']",none 
+62.0,"['look', 'case', 'glass', 'scratch', 'gorilla', 'back', 'guard', 'protect', 'cover', 'plastic', 'premium', 'screen', 'feel']","gorilla glass, guard, screen, cover, feel  "
+63.0,"['brand', 'seri', 'worth', 'disappoint', 'base', 'one', 'series,', 'want', 'featur', 'truli', 'compar', 'upto', 'model', 'mark', 'pleas', 'recommend']",brand  
+64.0,"['qualiti', 'quality,', 'look', 'build', 'price', 'poor', 'sturdi', 'design', 'premium', 'overal', 'built', 'feel']","built, price, design  "
+65.0,"['perform', 'look', 'use', 'one', 'featur', 'rang', 'design', 'premium', 'experi', 'give', 'price', 'feel']","looks , design, feel "
+66.0,"['lookwis', 'look', 'smart', 'stun', 'wise', 'head', 'amaz', 'attract', 'appeal', 'bodi', 'expect', 'overal', 'beauti', 'feel']","looks , design "
+67.0,"['littl', 'size', 'inch', 'bit', 'small', 'perfect', 'huge', 'mm', 'design', 'width', 'big', 'larg', 'thin', 'comfort', 'ok', 'price']","size, width, design"
+68.0,"['day', 'use', 'one', 'youtub', 'negat', 'honest', 'review', 'write', 'month', 'week', 'usag', 'read']",none
+69.0,"['simpl', 'look', 'impress', 'pretti', 'eleg', 'design,', 'amaz', 'design', 'attract', 'super', 'color', 'overal', 'beauti', 'colour', 'love']","design, looks"
+70.0,"['look', 'one', 'beauti', 'amaz', 'hold', 'in-hand', 'bodi', 'comfort', 'overal', 'heavi', 'hand', 'light', 'feel']","design, in hand feel , comfort , weight"
+71.0,"['look', 'handl', 'bit', 'quit', 'weight', 'easi', 'lightweight', 'hold', 'design', 'slim', 'heavi', 'light', 'feel']","looks, in hand feel , comfort , weight, design "
+72.0,"['heptic', 'feedback', 'vibrat', 'mode', 'game', 'haptic', 'use', '4d', 'premium', 'experi', 'motor', 'type', 'touch', 'feel']","haptics, vibration, touch, feel  "
+73.0,"['sometim', 'becom', 'daili', 'time', '1st', 'one', 'lot', 'begin', 'bother', 'irrit', 'annoy', 'usag', 'frustrat', 'up,', 'thing']",none  
+74.0,"['well', 'let', 'day', 'pros:1', 'one', 'con', 'come', 'found', 'drawback', 'pros', 'disadvantag', 'review', 'would', 'perform', 'ths', 'wll']",none  
+75.0,"['beast', 'one', 'love', 'awsm', 'absolut', 'amaz', 'real', 'rang', 'perform', 'overal', 'monster', 'price', 'ths', 'beauti']",none  
+76.0,"['devic', 'worth', 'one', 'use', 'money', 'featur', 'rang', 'first', 'review', 'valu', 'experi', 'overal', 'perform', 'price']",none  
+77.0,"['averag', 'look', 'hype', 'around', 'level', 'pretti', 'lke', 'rang', 'everyth', 'per', 'experi', 'expect', 'overal', 'ok', 'price', 'ths']",none  
+78.0,"['qualiti', 'rear', 'averag', 'cam', 'selfi', 'camera', 'one', 'light', 'poor', 'take', 'photo', 'decent', 'front', 'low']","selfie , camera , front camera"
+79.0,"['qualiti', 'score', '10/10', '4/5', '9/10', 'zero', 'rang', '8/10', 'amazon', 'rate', 'would', 'side', 'overal', 'price', '5/5']",none
+80.0,"['gven', 'dsplay', '4/5', 'want', 'gvng', 'gve', 'star', 'would', 'ratng', 'overal', 'ths', 'wll']",none
+81.0,"['deserv', 'one', 'even', 'less', 'star', 'gve', 'amazon', 'rate', 'would', 'overal', 'deduct', 'give', 'given', 'ths']",none
+82.0,"['time', 'fngerprnt', 'unlock', 'take', 'ths', 'keep', 'open', 'even', 'button', 'would', 'work', 'lock', 'touch', 'screen']","lock ,unlock , fingerprint, button"
+83.0,"['devic', 'latest', 'user', 'one', 'clean', 'want', 'featur', 'stock', 'io', 'first', 'ui', 'experi', 'android', 'price']","io, ui , android"
+84.0,"['stop', 'sometim', 'time', 'day', 'one', 'function', 'even', 'back', 'press', 'button', 'month', 'work', 'need', 'feel']",button
+85.0,"['letter', 'day', 'keypad', 'proper', 'hang', 'place', 'older', 'even', 'keyboard', 'work', 'key', 'slow', 'type', 'problem', 'ths']","keypad, hang, keyboard"
+86.0,"['sometim', 'smooth', 'time', 'proper', 'sensit', 'one', 'workng', 'issu', 'work', 'respons', 'slow', 'problem', 'touch', 'screen']",touch
+87.0,"['macro', 'mode', 'len', 'good,', 'camera', 'one', 'shot', 'super', 'work', 'wide', 'main', 'sensor', 'angl']","macro camera, camera , wide angle, "
+88.0,"['superb', 'day', 'pretti', 'share', 'amaz', 'far', 'wonder', 'first', 'experi', 'satisfi', 'overal', 'ok', 'person', 'give', 'hand', 'till']",none 
+89.0,"['time', 'horribl', 'again,', 'ever', 'wast', 'one', 'poor', 'money', 'ruin', 'first', 'experi', 'overal', 'terribl', 'given', 'till']",none 
+90.0,"['play', 'support', 'hdr', 'stream', 'screen', 'watch', 'movi', 'video', 'ott', 'hd', 'amazon', 'content', 'netflix']","hdr, streaming , movie , ott , amazon, netflix"
+91.0,"['qualiti', 'look', '4/5', '5/5batteri', '5/5camera', 'camera', 'life', 'speed', 'review', 'work', 'display', 'perform', '5/5,', '5/5']",none
+92.0,"['qualiti', 'record', 'camera', 'improv', 'stabil', 'optic', 'oi', 'poor', 'stabl', 'video', 'stabilis', 'work', 'price', 'imag']","video stabalization, camera "
+93.0,"['qualiti', 'record', 'play', 'support', '30fps', 'camera', '4k', 'motion', 'watch', 'video', 'fps', 'slow', '60fps']","video recording, camera , fps "
+94.0,"['qualiti', 'look', 'configur', 'specs,', 'high', 'match', 'rang', 'paper', 'mention', 'specif', 'review', 'work', 'overal', 'perform', 'price', 'spec']",none
+95.0,"['day', 'flagshp', 'say', 'one', 'revew', 'lke', 'kller', 'true', 'would', 'usng', 'budget', 'perform', 'ths', 'wth']",flagship
+96.0,"['memori', 'support', 'slot', 'extern', 'card', 'sm', 'avail', 'sd', 'micro', 'slot,', 'dedic', 'expand', 'provis', 'option']","memory card, sd card , slot "
+97.0,"['gb', 'ram', '8gb', 'varant', 'got', 'manag', '4gb', '128gb', '128', 'bought', 'storag', '6gb', 'ths']","ram , memory "
+98.0,"['bar', 'led', 'disabl', 'notif', 'light', 'app', 'even', 'get', 'messag', 'show', 'lock', 'display', 'screen']","notification , display , notification light"
+99.0,"['well', 'look', 'day', 'one', 'wise', 'poor', 'issu', 'happi', 'decent', 'expect', 'overal', 'perform', 'ths', 'wth']",performance
+100.0,"['smooth', 'look', 'worth', 'smoother', 'love', 'oper', 'smooth,', 'super', 'work', 'run', 'fast', 'perform', 'price', 'feel']",performance
+101.0,"['smooth', 'day', 'processng', 'littl', 'help', 'speed', 'even', 'budget', 'work', 'process', 'respons', 'fast', 'slow', 'perform', 'ths']","processing, performance"
+102.0,"['perform', 'sometim', 'look', 'time', 'bit', 'one', 'speed', 'oper', 'get', 'super', 'work', 'faster', 'overal', 'slow', 'fast', 'feel']","processing, performance"
+103.0,"['qualiti', 'look', 'mid', 'midrang', 'user', 'killer', 'one', 'mid-rang', 'featur', 'want', 'amaz', 'rang', 'expect', 'overal']","money, price , mid range"
+104.0,"['play', 'gamng', 'bgm', 'game', 'comment', 'lke', 'gamer', 'recommend', 'wll', 'exper', 'devc', 'perform', 'ths', 'wth']","gaming , bgm"
+105.0,"['fngerprnt', 'fnger', 'scanner', 'lfe', 'sometm', 'reader', 'lttle', 'bt', 'use', 'work', 'fp', 'slow', 'wth', 'fast', 'ths', 'prnt']",fingerprint scanner
+106.0,"['sometim', 'time', 'day', 'hang', 'heat', 'lot', 'issu', 'get', 'work', 'month', 'start', 'slow', 'problem']","hang , heating"
+107.0,"['peopl', 'senior', 'age', 'citizen', 'suitabl', 'perfect', 'use', 'onlin', 'kid', 'class', 'parent', 'elder', 'old', 'gift', 'person']","senior citizen, parents, online class , gift, elder person"
+108.0,"['ssue', 'fngerprnt', 'fnger', 'proper', 'one', 'workng', 'sensor', 'proxmti', 'work', 'wth', 'problem', 'ths', 'prnt']","fingerprint scanner , proximity sensor"
+109.0,"['well', 'except', 'proper', 'one', 'know', 'issu', 'everyth', 'big', 'face', 'proxim', 'work', 'sensor,', 'problem', 'fine', 'sensor', 'thing']", proximity sensor
+110.0,"['text', 'time', 'otp', 'bank', 'send', 'even', 'app', 'activ', 'messag', 'sent', 'receiv', 'sms', 'work', 'googl', 'show']"," sms, message"
+111.0,"['call', 'time', 'memori', 'slot', 'one', 'card', 'dual', 'network', 'issu', 'hybrid', 'sd', 'work', 'sim']"," sim card, memory card , slot , network  "
+112.0,"['sometim', 'call', 'ear', 'proper', 'use', 'sensor', 'issu', 'get', 'turn', 'proxim', 'work', 'display', 'problem', 'screen']","calling , proximity sensor "
+113.0,"['purchas', 'satsfactori', 'use', 'satsf', 'fulli', 'qute', 'amazon', 'would', 'overal', 'perform', 'ths', 'wth']",none
+114.0,"['sometim', 'call', 'time', 'play', 'screen', 'dual', 'issu', 'get', 'video', 'even', 'app', 'messag', 'work', 'whatsapp']",whatsapp
+115.0,"['call', 'etc', 'calls,', 'use', 'watch', 'youtube,', 'youtub', 'calling,', 'whatsapp,', 'video', 'social', 'usag', 'whatsapp']","calling, youtube , whatsapp"
+116.0,"['well', 'rest', 'look', 'perfect', 'apart', 'functional)rest', 'far', 'everyth', 'work', 'other', 'ok', 'fine', 'okay', 'thing']",none
+117.0,"['connect', 'support', 'speed', 'network', 'carrier', 'get', 'career', 'issu', 'show', 'work', '4g+', 'aggreg', 'sim']","carrier aggregation, network"
+118.0,"['smooth', 'os', 'one', 'clean', 'color', 'oxygeno', 'experi', 'ui', 'os,', 'feel', 'wth', 'ths', 'oxygen']","os, ui , feel"
+119.0,"['call', 'record', 'featur', 'automat', 'auto', 'app', 'avail', 'recordng', 'googl', 'know', 'person', 'problem', 'option', 'voic']",call recording
+120.0,"['smooth', 'os', 'user', 'one', 'clean', 'featur', 'oper', 'lke', 'issu', 'experi', 'os,', 'fast', 'perform', 'system']","os, performance"
+121.0,"['smooth', 'look', 'user', 'updat', 'one', 'clean', 'bug', 'ui,', 'lot', 'ui', 'interfac', 'experi', 'need', 'perform']","ui, bugs"
+122.0,"['smooth', 'processor', 'day', 'mediatek', 'helio', 'one', 'use', 'speed', 'rang', 'power', 'work', 'perform', 'fast', 'price']","processor, performance"
+123.0,"['processor', '5g', 'snapdragon', 'game', '870', '888', 'chipset', 'compar', 'exyno', 'fast', 'perform', 'price', 'ths']","processor, games, performance"
+124.0,"['processor', 'day', 'heat', '870', 'sd870', 'beast', 'game', 'get', 'rang', 'sd', 'sd888', 'work', 'run', 'perform', 'ths']","processor, games,heating,  performance"
+125.0,"['qualiti', 'panel', 'amol', 'display,', 'one', 'use', 'ip', 'compar', 'lcd', 'super', 'experi', 'display', 'price', 'screen']","display, amoled, led, ip"
+126.0,"['devic', 'disabl', 'full', 'unwant', 'bloatwar', 'lot', 'come', 'app', 'remov', 'annoy', 'softwar', 'bloatware,', 'uninstal', 'instal']",bloatware
+127.0,"['seen', 'ads,', 'time', 'disabl', 'bloatwar', 'advertis', 'turn', 'app', 'get', 'first', 'show', 'set', 'everi', 'ad', 'see', 'annoy']","ads, bloatware"
+128.0,"['basic', 'ask', 'accept', 'permiss', 'privaci', 'use', 'lot', 'app', 'data', 'issu', 'need', 'give', 'term']","app permissions, privacy"
+129.0,"['5g', 'support', 'one', 'india', 'featur', 'futur', 'money', 'band', 'network', 'rang', 'budget', 'price', 'ths', 'wth']","5g , network"
+130.0,"['sometim', 'smooth', 'time', 'day', 'use', 'even', 'stutter', 'issu', 'face', 'notic', 'month', 'work', 'perform', 'lag']",performance
+131.0,"['smooth', 'play', 'day', 'user', 'game', 'high', 'normal', 'gamer', 'hardcor', 'experi', 'graphic', 'gamer,', 'usag', 'heavi', 'perform']","performance, games"
+132.0,"['smooth', 'play', 'game', 'heat', 'laggi', 'high', 'even', 'issu', 'without', 'set', 'graphic', 'perform', 'lag']","performance,lag, graphics, games, heating"
+133.0,"['smooth', 'play', 'bgmi', 'frame', 'game', 'pubg', 'fps', 'hd', 'cod', 'set', 'run', 'perform', 'ths', 'lag']","games, pubg, bgmi, cod ,lag, fps, performance"
+134.0,"['smooth', '120hz', 'amol', 'refresh', 'super', 'rate', '120', '90hz', 'display', 'hz', 'screen']","amoled, display, refresh rate"
+135.0,"['smooth', '120hz', 'refresh', '60hz', 'rate', '120', '90hz', 'display', 'hz', 'screen', 'feel']"," display, refresh rate"
+136.0,"['devic', 'area', 'speed', 'network', 'ths', 'even', 'nternet', 'work', 'upload', 'fast', 'slow', 'net', 'whch', 'internet', 'download']"," internet, network"
+137.0,"['time', 'connect', 'one', 'poor', 'signal', 'network', 'issu', 'show', 'recept', 'work', 'problem', 'wifi']","connectivity, network  ,signal , wifi"
+138.0,"['depth', 'ultrawid', 'mode', 'len', 'camera', 'photo', 'work', 'sensor', 'wide', 'portrait', 'ultra', 'angl']","ultrawide, camera"
+139.0,"['apps,', 'support', 'proper', 'one', 'dual', 'featur', 'app', 'get', 'second', 'avail', 'issu', 'activ', 'provid', 'work', 'option']",dual apps support
+140.0,"['unwant', 'unnecessari', 'lot', 'applic', 'app', 'even', 'lke', 'pre', 'googl', 'remov', 'work', 'pre-instal', 'need', 'download', 'uninstal', 'instal']","unnecessary apps , pre installed apps "
+141.0,"['apps,', 'instal', 'time', 'load', 'take', 'applic', 'open', 'app', 'even', 'slow', 'run', 'close', 'lag']","apps, performance, lag "
+142.0,"['sometim', 'time', 'day', 'updat', 'use', 'blink', 'lot', 'softwar', 'issu', 'start', 'bright', 'flicker', 'display', 'problem', 'screen', 'low']","screen flicker , display, blinking "
+143.0,"['dialer', 'dailer', 'dialer,', 'updat', 'one', 'use', 'featur', 'function', 'new', 'app', 'dialler', 'googl', 'messag', 'experi']",dialer
+144.0,"['well', 'powerpack', 'complet', 'one', 'perfect', 'budget', 'packag', 'overall,', 'total', 'valu', 'overal', 'deal', 'price', 'point']",none
+145.0,"['averag', 'afford', 'worth', 'look', 'offer', 'overpr', 'featur', 'money', 'compar', 'rang', 'cost', 'valu', 'need', 'give', 'price']","price, worth , money  "
+146.0,"['advanc', 'rest', 'look', 'basic', 'use', 'one', 'featur', 'lot', 'new', 'miss', 'amaz', 'less', 'work', 'ok', 'whch', 'ths', 'wth']",features
+147.0,"['noth', 'look', 'releas', 'one', 'model', 'suggest', 'money', 'far', 'recommend', 'total', 'wll', 'bought', 'particular', 'whch', 'ths', 'wth']",none
+148.0,"['never', 'well', 'met', 'one', 'upto', 'high', 'meet', 'beyond', 'per', 'pleas', 'expect', 'live']",none
+149.0,"['hear', 'call', 'qualiti', 'clear', 'speaker', 'issu', 'receiv', 'sound', 'person', 'problem', 'voic', 'low']","call , speaker, voice, sound"
+150.0,"['qualiti', 'nois', 'hear', 'microphon', 'proper', 'speaker', 'mic', 'issu', 'work', 'cancel', 'problem', 'mike']","noise, microphone, speaker"
+151.0,"['qualiti', 'support', 'speaker', 'stereo', 'vision', 'headphon', 'audio', 'effect', 'work', 'sound', 'dolbi', 'atmo', 'ths', 'feel']","audio, speaker , sound, dolby atmos"
+152.0,"['qualiti', 'enough', 'clear', 'one', 'speaker', 'stereo', 'dual', 'volum', 'poor', 'audio', 'work', 'sound', 'loud', 'low']","speaker, stereo , volumne, audio"
+153.0,"['qualiti', 'call', 'averag', 'superb', 'complaint', 'poor', 'compar', 'quality:', 'issu', 'come', 'get', 'honor', '5)', 'android', 'problem', 'decent']",call quality
+154.0,"['call', 'switch', 'light', 'automat', 'turn', 'call,', 'get', 'app', 'blank', 'even', 'button', 'lock', 'touch', 'screen']","call, screen"
+155.0,"['call', 'time', 'connect', 'take', 'disconnect', 'issu', 'incom', 'get', 'number', 'second', 'show', 'even', 'abl', 'problem', 'caller']",calls
+156.0,"['qualiti', 'cam', 'camera', 'poor', 'money', 'camara', 'camra', 'expect', 'perform', 'ths', 'qualti']",camera
+157.0,"['qualiti', '5g', 'support', 'camera', 'one', 'band', 'camara', 'wll', 'batteri', 'devc', 'perform', 'price', 'ths', 'wth']","5g, camera"
+158.0,"['qualiti', 'phone', 'look', 'averag', 'phone,', 'camera', 'one', 'pictur', 'poor', 'compar', 'rang', 'flagship', 'get', 'perform', 'price']","5g, camera"
+159.0,"['time', 'day', 'restart', 'switch', 'automat', 'turn', 'issu', 'get', 'reboot', 'reset', 'set', 'start', 'need']",restart issue
+160.0,"['time', 'galleri', 'load', 'one', 'pictur', 'take', 'photo', 'open', 'delet', 'app', 'second', 'even', 'folder']","gallery, performance"
+161.0,"['well', 'job', 'perfect', 'quit', 'flawless', 'issu', 'far', 'everyth', 'even', 'charm', 'work', 'fine', 'till']",none
+162.0,"['basic', 'daili', 'averag', 'day', 'user', 'medium', 'overal', 'everyday', 'use', 'perfect', 'normal', 'usag', 'ok', 'ths']","average use,, everyday use "
+163.0,"['qualiti', 'averag', 'play', 'game', 'camera', 'use', 'want', 'gamer', 'experi', 'budget', 'batteri', 'heavi', 'perform', 'price', 'screen']","gaming, camera , battery"
+164.0,"['qualiti', 'quality,', 'averag', 'call', 'good,', 'camera', 'speaker', 'poor', 'stereo', 'sound', 'batteri', 'low', 'camera,']","camera ,speaker"
+165.0,"['one', 'money', 'qoo7', 'legend', 'lke', 'qoo', 'vvo', 'prce', 'would', 'could', 'whch', 'ths', 'wth']",brand
+166.0,"['tme', 'purchas', 'day', 'mobl', 'one', 'lke', 'amazon', 'got', 'replac', 'wll', 'usng', 'bought', 'ths', 'wth']",none
+167.0,"['1%', 'almost', 'take', '20', '45', 'percent', 'hour', '100', '100%', 'reach', 'min', '15', '0-100%', 'minut']","battery, charging"
+168.0,"['qualiti', 'otherwis', 'look', 'one', 'strong', 'wise', 'piec', 'come', 'amaz', 'grade', 'capabl', 'review', 'premium', 'hardwar', 'price', 'militari', 'feel']","hardware, looks, feel"
+169.0,"['devic', 'look', 'time', 'taken', '12mp', 'perfect', 'camera', 'pictur', 'use', 'sound', 'photo', 'get', 'click', 'pic', 'detail']",camera
+170.0,"['worth', 'day', 'use', 'one', 'almost', 'last', 'money', '20', 'month', 'week', 'experi', 'usag', 'sinc', 'two']",none
+171.0,"['easili', 'day', 'half', 'full', 'one', 'use', 'normal', 'last', 'even', 'hour', 'usag', 'heavi', 'moder']",normal use
+172.0,"['smooth', 'qualiti', 'well', 'os', 'oper', 'glichti', 'butter', 'everyth', 'transit', 'king', 'super', 'ultra', 'display', 'screen', 'thing']",display
+173.0,"['never', 'time', 'disappoint', 'dissapoint', 'one', 'bit', 'huge', 'surpris', 'lot', 'shame', 'big', 'total', 'slight', 'thing']",none
+174.0,"['nightmod', 'mode', 'differ', 'time', 'updat', 'job', 'mode,', 'bit', 'night', 'featur', 'new', 'button', 'work', 'ok', 'need', 'option']",night mode
+175.0,"['qualiti', 'mode', 'daylight', 'day', 'condit', 'photographi', 'camera', 'pictur', 'night', 'photo', 'even', 'perform', 'light', 'low']","daylight, night time , camera"
+176.0,"['purchas', 'day', 'one', 'issu', 'got', 'replac', 'within', 'month', 'damag', 'work', 'display', 'problem', 'screen']","screen , display"
+177.0,"['mode', 'dsplay', 'disabl', 'use', 'screen', 'snapchat', 'even', 'app', 'issu', 'applic', 'still', 'set', 'work', 'option', 'dark']","screen , display, darkmode"
+178.0,"['sunlight', 'enough', 'screen', 'direct', 'outdoor', 'auto', 'even', 'bright', 'level', 'display', 'light', 'low']","screen ,sunlight, brightness, display"
+179.0,"['photographi', 'depend', 'lover', 'look', 'photography,', 'suggest', 'photograph', 'take', 'photo', 'rang', 'profession', 'would', 'skill', 'professon', 'ths', 'wll']",photography
+180.0,"['superb', 'wast', 'mode', 'clear', 'camera', 'pictur', 'photo', 'even', 'cleariti', 'clariti', 'super', 'expect', 'space', 'price']","camera clarity, camera"
+181.0,"['worth', 'purchas', 'complet', 'one', 'quit', 'fulli', 'happi', 'overall,', 'satisfi', 'overal', 'satisfact', 'price', 'ths', 'wth']",worth
+182.0,"['look', 'doubt', 'today', 'day', 'last', 'qute', 'lke', 'happi', 'week', 'overal', 'year', 'wth', 'ths', 'love']",none
+183.0,"['qualiti', 'sometim', 'look', 'camera', 'pictur', 'poor', 'high', 'come', 'photo', 'sharpen', 'satur', 'pic', 'sharp', 'imag', 'low']","photos, camera, picture"
+184.0,"['qualiti', 'zoom,', 'front', '10x', '30x', 'zoom', 'pixel', 'camera', 'pictur', 'photo', 'even', 'get', '2x', 'work', 'give', 'imag']","zoom, camera"
+185.0,"['look', 'overal', 'one', 'want', 'featur', 'rang', 'friend', 'recommend', 'budget', 'perform', 'price', 'ths', 'low']","budget, price"
+186.0,"['mother', 'mom', 'dad', 'birthday', 'purchas', 'one', 'father', 'perfect', 'got', 'happi', 'gift', 'bought', 'like', 'love']","mother, mom , dad , gift , father"
+187.0,"['background', 'mode', 'grey', 'updat', 'camera', 'tint', 'dark', 'green', 'issu', 'face', 'bright', 'display', 'screen', 'low']",green tint
+188.0,"['look', 'differ', 'order', 'dark', 'green', 'white', 'color', 'blue', 'variant', 'beauti', 'colour', 'love']",color
+189.0,"['qualiti', 'processor', 'look', 'enough', 'price', 'camera', 'use', '1200', 'back', 'perform', 'wth', 'fast', 'processor,', 'ths', 'camera,']","processor, camera"
+190.0,"['call', 'suggest', 'return', 'use', 'lke', 'amazon', 'get', 'opton', 'replac', 'aval', 'would', 'ths', 'wth']",none
+191.0,"['bit', 'size', 'inch', 'size,', 'small', 'big', 'larg', 'bigger', '67', 'display', 'screen', 'feel']","size, screen , feel"
+192.0,"['qualiti', 'look', 'display,', 'one', 'poor', 'amaz', 'lcd', 'issu', 'super', 'bright', 'resolut', 'display', 'perform', 'price', 'screen']","screem , display "
+193.0,"['qualiti', 'rear', 'averag', 'cam', 'camera', 'one', 'poor', 'photo', 'back', 'expect', 'ok', 'need', 'perform', 'front']","rear camera, front camera "
+194.0,"['qualiti', 'look', 'front', '108', '64mp', 'camera', 'mega', '48mp', 'photo', 'mp', '50', '64', 'megapixel', '48', '108mp']",front camera
+195.0,"['noth', '(with', 'time', 'room', 'improv', 'here4', 'lot', 'get', 'talk', 'still', 'pleas', 'contrast', 'need', 'thing']",none
+196.0,"['time', 'differ', 'one', 'almost', 'way', 'compar', 'even', 'far', 'get', 'still', 'other', 'could', 'comparison']",none
+197.0,"['worth', 'look', 'user', 'upgrad', 'one', 'use', 'major', 'lg', 'happi', 'worthi', 'previous', 'old', 'year', 'whch', 'ths', 'wth']","upgrade, worth"
+198.0,"['3t', 'user', '6t', 'one', 'use', 'upgrad', 'compar', '5t', '6,', 'old', 'usng', 'year', 'ths', 'wth']","upgrade,"
+199.0,"['qualiti', 'cam', 'give', 'camera', 'use', 'stock', 'photo', 'app', 'get', 'gcam', 'result', 'low', 'perform', 'imag', 'instal']","gcam , google camera"
+200.0,"['androd', 'user', 'os', 'updat', 'one', 'use', 'want', 'stock', 'mu', 'would', 'exper', 'year', 'ths', 'wth']","stock, android"
+201.0,"['worth', 'day', 'price', 'one', 'money', 'lke', 'rang', 'amaz', 'super', 'overal', 'deal', 'valu', 'ths']","worth , lke, money"
+202.0,"['qualiti', 'wors', 'worth', 'averag', '20k', 'camera', '25k', '40k', '30k', 'rang', 'get', '14k', 'perform', 'price']","camera, price, worth"
+203.0,"['worth', 'devc', 'mobl', 'feel', 'satsf', 'money', 'rs', 'lke', 'prce', 'pad', 'amount', '1000', 'extra', 'perform', 'ths', 'wth']",moeny
+204.0,"['sometim', 'noth', 'time', 'working,', 'proper', 'water', 'ths', 'workng', 'garag', 'still', 'abl', 'everi', 'work', 'need', 'system']",none
+205.0,"['day', 'user', 'access', 'member', 'rs', 'fool', '1000rs', 'earli', 'pay', 'non', 'charg', '1000', 'extra', 'rupe']",none
+206.0,"['worth', 'money', 'definit', 'penni', 'spent', 'cost', 'worthi', 'buy', 'everi', 'total', 'price', 'spend']","money , worth"
+207.0,"['ssue', 'hope', 'updat', 'next', 'thnk', 'futur', 'stll', 'softwar', 'wth', 'fx', 'ths', 'wll']",none
+208.0,"['rest', 'around', 'camera', 'pictur', 'upto', 'featur', 'come', 'central', 'camera,', 'silver', 'everyth', 'mark', 'bright', 'ok', 'corner', 'fine', 'thing']",camera
+209.0,"['qualiti', 'never', 'superb', 'look', 'ever', 'control', 'overal', 'one', 'poor', 'expect', 'issu', 'check', 'work', 'ok', 'low']",none
+210.0,"['qualiti', 'updat', 'hope', 'camera', 'improv', 'one', 'enhanc', 'softwar', 'get', 'shot', 'expect', 'need', 'perform']",camera
+211.0,"['purchas', 'redm', 'user', 'use', 'one', 'last', 'wll', 'usng', 'exper', 'bought', 'year', 'whch', 'ths', 'wth']",none
+212.0,"['never', 'launch', 'purchas', 'ever', 'hope', 'one', 'model', 'love', 'last', 'custom', 'qualti', 'even', 'xaom', 'usng', 'year', 'ths', 'wll']",none
+213.0,"['one', 'lot', 'major', 'found', 'issu', 'face', 'big', 'still', 'main', 'problem', 'till', 'serious']",none
+214.0,"['os', 'updat', 'android', 'softwar', 'major', 'promis', 'provid', 'regular', 'month', 'secur', 'year', 'system', 'patch']","os , software , android , security "
+215.0,"['tme', 'user', 'snce', 'dsappontng', 'one', 'dsappont', 'lttle', 'lke', 'wll', 'total', 'dsapponted,', 'devc', 'ths', 'wth']",none
+216.0,"['octob', 'day', '2nd', 'order', 'recev', 'may', 'june', 'amazon', 'juli', 'got', 'deliv', 'receiv', 'oct', 'delver', 'ths']",none
+217.0,"['time', 'day', 'thank', 'pack', 'deliveri', 'deliv', 'packag', 'amazon', 'box', 'got', 'boy', 'fast']",none
+218.0,"['ssue', 'brand', 'dd', 'fnd', 'qualti', 'lke', 'even', 'get', 'face', 'expect', 'whch', 'ths', 'wth']",none
+219.0,"['qualiti', 'time', 'hang', 'camera', 'use', 'app', 'issu', 'even', 'work', 'slow', 'problem', 'lag']","camera , hang"
+220.0,"['1st', 'one', 'last', 'take', 'come', 'miss', 'get', 'first', 'would', 'provid', 'give', 'thing']",none
+221.0,"['around', 'bank', 'convert', 'hdfc', 'blah', 'offer', 'card', 'amazon', 'emi', 'got', 'cost', 'debit', 'instant', 'discount']",none
+222.0,"['defect', 'one', 'piec', 'money', 'amazon', 'faulti', 'deliv', 'replac', 'receiv', 'damag', 'servic', 'product']",none
+223.0,"['averag', 'average5', 'camera', 'one', 'belev', 'ts', 'average,', 'found', 'camara', 'experi', 'usng', 'ok', 'softwar', 'ths']",camera
+224.0,"['fix', 'full', 'minor', 'bug', 'model', 'money', 'lot', 'small', 'found', 'issu', 'buggi', 'yet', 'need', 'ths']","bugs, money"
+225.0,"['need', 'disappoint', 'full', 'bug', 'poor', 'buggi', 'lot', 'featur', 'issu', 'even', 'experi', 'hardwar', 'exper', 'softwar']","bugs, software, hardware"
+226.0,"['someon', 'tell', 'cant', 'pls', 'advis', 'one', 'next', 'someth', 'help', 'suggest', 'plz', 'pleas', 'appreci', 'would', 'know', 'need']",none
+227.0,"['hope', 'updat', 'fix', 'may', 'solv', 'next', 'one', 'issu', 'resolv', 'softwar', 'problem']",none
+228.0,"['never', 'it!', 'otherwis', 'doubt', 'dont', 'one', 'definit', 'els', 'alway', 'guy', 'it!!', 'without', 'pleas', 'think', 'instead']",none
+229.0,"['explor', 'look', 'decis', 'right', 'one', 'want', 'wrong', 'pleas', 'think', 'decid', 'make', 'choos', 'option', 'choic']",none
+230.0,"['brand', 'well', 'qualiti', 'purchas', 'price', 'use', 'one', 'trust', 'money', 'name', 'expect', 'product', 'valu', 'ths']",brand
+231.0,"['need', 'test', 'day', 'updat', 'hope', 'next', 'new', 'come', 'futur', 'got', 'pleas', 'week', 'month', 'usag', 'post', 'give']",none
+232.0,"['need', 'time', 'updat', 'may', 'hope', 'one', 'improv', 'come', 'keep', 'even', 'get', 'everi', 'regular', 'softwar', 'problem', 'give', 'option']",none
+233.0,"['ssue', 'call', 'vst', 'day', 'one', 'servc', 'custom', 'centr', 'vsted', 'check', 'center', 'wth', 'ths', 'wll']",service
+234.0,"['qualiti', 'purchas', 'onlin', 'offlin', 'dont', 'one', 'suggest', 'amazon', 'get', 'store', 'shop', 'pleas', 'receiv', 'product']",none
+235.0,"['noth', 'sentenc', 'let', 'say', 'one', 'wao', 'contrari', 'word', 'take', 'talk', 'first', 'notc', 'matter']",none
+236.0,"['brand', 'wors', 'purchas', 'ever', 'one', 'money', 'poor', 'compani', 'hate', 'owsom', 'experi', 'expect', 'overal', 'person', 'product', 'terribl', 'ths']",none
+237.0,"['qualiti', 'superb', 'averag', 'day', 'camera', 'poor', 'back', 'backup,', 'backup', 'batteri', 'price', 'ths', 'qualti']","camera , battery"
+238.0,"['qualiti', 'product,', 'look', 'superb', 'one', 'thank', 'amaz', 'super', 'product.', 'overal', 'product', 'fast', 'fantast', 'love']",none
+239.0,"['never', 'purchas', 'ever', 'wast', 'dont', 'one', 'money', 'pleas', 'buy', 'buy-', 'bought', 'year', 'ths']",none
+240.0,"['day', 'snce', 'say', 'one', 'thnk', 'lke', 'rang', 'usng', 'prce', 'recommend', 'wll', 'would', 'range,', 'ths', 'wth']",price
+241.0,"['qualiti', 'seen', 'never', 'wast', 'ever', 'part', 'user', 'camera', 'poor', 'money', 'photo', 'even', 'ths', 'camera,']",camera
+242.0,"['qualiti', 'averag', 'camera', 'poor', 'accord', 'rang', 'segment', 'expect', 'budget', 'ok', 'decent', 'price', 'point']","camera, price"
+243.0,"['time', 'wast', 'ever', 'worest', 'complet', 'dont', 'full', 'money', 'hard', 'amazon', 'total', 'work', 'simpli', 'earn', 'ths']",money
+244.0,"['time', 'among', 'ever', 'around', 'say', 'one', 'companion', 'alway', 'rock', 'far', 'got', 'produc', 'inc', 'era', 'beauti', 'wll']",none
+245.0,"['product,', 'worth', 'afford', 'purchas', 'made', 'littl', 'one', 'reason', 'amaz', 'rang', 'cost', 'everi', 'ok', 'price', 'fantast']",none
+246.0,"['qualiti', 'smooth', 'look', 'good,', 'camera', 'pictur', 'one', 'fast', 'amaz', 'video', 'decent', 'work', 'overal', 'perform', 'price', 'camera,']",performance
+247.0,"['extend', 'day', 'warrenti', 'say', 'one', 'card', 'warranti', 'get', 'pay', 'cover', 'provid', 'damag', 'servic', 'year', 'repair']","warranty , service"
+248.0,"['over', 'perfect', 'one', 'quit', 'pretti', 'could', 'good,', 'overall,', 'overal', 'ok', 'decent', 'fine', 'fantast', 'thing']",none
+249.0,"['dscount', 'offer', 'rs', 'got', 'exchang', 'prce', 'sale', 'bought', 'durng', 'deal', 'ths', 'wth']",none
+250.0,"['qualiti', 'averag', 'good,', 'camera', 'pictur', 'poor', 'photo', 'amaz', 'video', 'expect', 'ok', 'imag', 'low']",camera
+251.0,"['never', 'anyone,', 'suggest', 'one', 'definit', 'anyon', 'everyon', 'would', 'recommend', 'other', 'sure', 'person', 'ths', 'wll']",none
+252.0,"['never', 'purchas', 'pls', 'wast', 'dont', 'one', 'suggest', 'money', 'recommend', 'buy', 'pleas', 'think', 'ths']",none
+253.0,"['worth', 'look', 'option', 'ever', 'one', 'amaz', 'segmentlov', 'everyth', 'segment,', 'segment', 'overal', 'categori', 'could', 'price', 'thing']","price, worth"
+254.0,"['qualiti', 'averag', 'day', 'good,', 'camera', 'fast', 'charg', 'ok', 'batteri', 'perform', 'price', 'life', 'camera,']","camera, battery , charging"
+255.0,"['time', 'ever', 'life', 'perfect', 'one', 'world', 'worst""', 'date', 'everyth', 'journey', 'theeee', 'across', 'pleas', 'first', 'worstttttt', 'exampl', 'till']",none
+256.0,"['fm', 'day', 'one', 'thing', 'anyon', 'gve', 'talk', 'bcoz', 'divic', 'bade', 'ths??just', 'bad', 'wth', 'terribl', 'mean', 'ths', 'bad,']",none
+257.0,"['launch', 'time', 'full', 'bit', 'littl', 'quit', 'high', 'seem', 'cost', 'specif', 'side', 'increas', 'higher', 'cheap', 'expens', 'price']","price, cost "
+258.0,"['one', 'reason', 'high', 'amaz', 'rang', 'get', 'range,', 'decent', 'overal', 'ok', 'choic', 'price', 'okay', 'point']","price, cost "
+259.0,"['ask', 'day', 'one', 'return', 'want', 'new', 'custom', 'item', 'amazon', 'get', 'replac', 'even', 'request', 'pleas', 'need', 'ths']",none 
+260.0,"['worth', 'wast', '20000', '10000', 'one', 'rs', '15000', 'even', 'get', 'spend', 'cost', 'would', 'overal', 'price', 'ths', 'rupe']","price, worth "
+261.0,"['worth', '20k', 'around', 'overal', 'one', 'money', '25k', '15k', 'get', '30k', 'rang', '10k', 'budget', 'price', 'ths']","price, worth "
+262.0,"['except', 'well', 'camera', 'pictur', 'one', 'quit', 'thing', 'compar', 'photo', 'amaz', 'camera,', 'work', 'expect', 'ok', 'decent', 'love']",camera
+263.0,"['never', 'look', 'purchas', 'lover', 'dont', 'camera', 'want', 'plz', 'pleas', 'buy', 'ur', 'enthusiast', 'camera,']",camera
+264.0,"['ssue', 'never', 'look', 'tred', 'one', 'found', 'mu', 'sm', 'sgnal', 'face', 'see', 'notc', 'ssue,', 'ths', 'wth']",none
+265.0,"['pathet', 'call', 'time', 'care', 'support', 'fix', 'one', 'help', 'custom', 'poor', 'issu', 'even', 'servic', 'problem']",customer service
+266.0,"['pathet', 'ask', 'part', 'visit', 'centr', 'even', 'get', 'issu', 'avail', 'still', 'servic', 'center', 'need', 'repair']","customer service, service center, service"
+267.0,"[':)', 'team', 'pick', 'job', 'offer', 'lot', 'seller', 'thank', 'wonder', 'amazon', 'amaz', 'deal', 'thankyou', 'bye', 'amazon!', 'make']",none
+268.0,"['call', 'cheat', 'care', 'day', 'disappoint', 'support', 'respons', 'return', 'custom', 'amazon', 'refund', 'request', 'experi', 'servic', 'ths', 'wth']",none
+269.0,"['qualiti', 'smooth', 'look', 'display,', 'good,', 'camera', 'light', 'super', 'display', 'perform', 'price', 'screen', 'camera,']","camera, performance, display, screen"
+270.0,"['nce', 'camera', 'dsappont', 'ts', 'qualti', 'one', 'satsf', 'lke', 'prce', 'would', 'wth', 'ths', 'camera,']",camera
+271.0,"['day', 'mobl', 'camera', 'one', 'qualti', 'chargng', 'lke', 'prce', 'wll', 'batteri', 'fast', 'ths', 'wth']",none
+272.0,"['qualiti', 'smooth', 'display', 'day', 'camera', 'one', 'could', 'pros', 'charg', 'sound', 'fast', 'batteri', 'perform', 'screen']","camera, battery"
+273.0,"['qualiti', 'look', 'display', 'day', 'life', 'charger', 'good,', 'battery,', 'amaz', 'big', 'super', 'batter', 'batteri', 'perform', 'screen']","display, charger, battery"
+274.0,"['qualiti', 'display', 'battery,', 'build', 'display,', 'camera', 'charg', 'batteri', 'performance,', 'decent', 'processor,', 'camera,']","display, charger, battery, built , performance"
+275.0,"['time', 'day', 'return', 'want', 'money', 'even', 'date', 'back', 'get', 'request', 'pleas', 'need', 'option', 'ths']",none
+276.0,"['day', 'full', 'return', 'want', 'money', 'custom', 'refund', 'get', 'got', 'pleas', 'request', 'amount', 'ths', 'wll']",none
+277.0,"['otherwis', 'noth', 'remain', 'well', 'apart', 'love', 'els', 'seem', 'everyth', 'everi', 'ok', 'fine', 'okay', 'thing']",none
+278.0,"['worth', 'prcng', 'say', 'one', 'ts', 'reason', 'thnk', 'got', 'tag', 'prce', 'would', 'prce,', 'recommend', 'overal', 'ths', 'feel']",price
+279.0,"['noth', 'excellent,', 'except', '!!!', 'actual', 'one', 'either', 'good,', 'improv', 'selfi', 'salfi', 'start', 'ok', 'thing']",none
+280.0,"['except', 'user', 'pretti', 'good,', 'quit', 'trust', 'actual', 'way', 'thank', 'amaz', 'jog', 'buddi', 'total', 'yeah', 'nice.']",none
+281.0,"['anoth', 'superb', 'cool', 'ya', 'clue', 'let', 'section', 'comment', 'amaz', 'get', 'guy', 'super', 'innov', 'confus', 'simpli', 'remarkable!']",none
+282.0,"['day', 'one', 'revew', 'gve', 'honest', 'month', 'usng', 'week', 'usag', 'wrtng', 'ths', 'wll']",none
+283.0,"['purchas', 'suggest', 'ts', 'money', 'love', 't,', 'happi', 'recommend', 'would', 'bought', 'ths', 'wll']",none
+284.0,"['say', 'lked', 'one', 'desgn', 'ts', 'lke', 'thng', 'super', 'would', 'total', 'overal', 'buld', 'everythng', 'ths', 'qualti']",none
+285.0,"['ssue', 'exper', 'day', 'snce', 'past', 'one', 'last', 'week', 'usng', 'month', 'year', 'ths', 'wth']",none
+,,none
